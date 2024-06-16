@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.HeroItem__content1{
+  font-size:60px;
+  margin-top: -10px;
+  font-weight: 900;
+}
+.HeroItem__content2{
+  font-size: 110px;
+  color: orange;
+  margin-top: -100px;
+  font-weight: 900;
+}
+.HeroItem__content3{
+  font-size: 110px;
+  margin-top: -170px;
+  font-weight: 900;
+}
